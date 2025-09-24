@@ -1,4 +1,4 @@
-LX Travel App
+ALX Travel App
 
 A Django REST API for managing travel listings, bookings, and reviews. Includes a database seeder for sample data.
 
